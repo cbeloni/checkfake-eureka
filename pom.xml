@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.com.checkfakeeureka</groupId>
-	<artifactId>br.com.checkfakeeureka</artifactId>
+	<artifactId>checkfakeeureka</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>checkfake-eureka</name>
 	<description>Eureka do checkfake</description>
